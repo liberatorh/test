@@ -2,4 +2,5 @@
 int main()
 {
 	printf("huangxing");
+	prinrf("hello world");
 }
